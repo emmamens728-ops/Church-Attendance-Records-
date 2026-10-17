@@ -1,0 +1,6 @@
+{
+  "name": "House of Power Ministry Attendance",
+  "description": "Church Attendance Management and Voice Search System for House of Power of Ministry International Church, Mankessim.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
